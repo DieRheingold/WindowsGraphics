@@ -1,0 +1,3 @@
+BALLBMP BITMAP "ciga.bmp"
+MASKBMP BITMAP "mask.bmp"
+
